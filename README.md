@@ -1,7 +1,7 @@
 # Hi there, I'm Arkanil 👋 
 
-### 🚀 Senior AI Product Engineer | Backend & Spatial AI
-I bridge the gap between complex AI capabilities and production-grade software systems. Transitioning 10+ years of Data Engineering depth into high-impact AI Product & Solutions Architecture.
+### 🚀 Senior AI Product Engineer | Backend & Spatial AI enthusiast
+I enjoy building and solving problems that I encounter or I envision someone to encounter. I have about 10 years of experience helping organisations build scalable future ready systems. 
 
 ---
 
