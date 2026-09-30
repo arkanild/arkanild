@@ -37,5 +37,5 @@ I bridge the gap between complex AI capabilities and production-grade software s
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/arkanildutta)
 - 🌐 **Location:** Madrid, Spain / Open to Remote HQP Opportunities
