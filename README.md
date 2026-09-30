@@ -21,7 +21,7 @@ I bridge the gap between complex AI capabilities and production-grade software s
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
-| 🤖 [**CDP RAG Assistant**](./projects/01-cdp-rag-assistant) | `FastAPI`, `Qdrant`, `LangGraph`, `RAGAS` | Production-grade customer data platform assistant using agentic workflows, hybrid search (BM25 + Dense), and dynamic evals. |
+| 🤖 [**CDP RAG Assistant**](./projects/cdp-rag-assistant) | `FastAPI`, `Qdrant`, `LangGraph`, `RAGAS` | Production-grade customer data platform assistant using agentic workflows, hybrid search (BM25 + Dense), and dynamic evals. |
 | 🕸️ [**Agentic GraphRAG System**](./projects/02-graph-rag) | `OpenSearch`, `HyDE`, `RRF`, `NetworkX` | Hybrid Local & Global query router combining knowledge graphs with reciprocal rank fusion retrieval. |
 | 🗺️ [**Spatial AI Prototype**](./projects/03-spatial-ai) | `Python`, `PostGIS`, `PyTorch` | Field research & bioacoustic analysis tools for environmental conservation data processing. |
 
