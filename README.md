@@ -13,7 +13,7 @@ I enjoy building and solving problems that I encounter or I envision someone to 
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GCP](https://shields.io)](https://cloud.google.com)
+![GCP](https://shields.io/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
