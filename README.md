@@ -22,7 +22,7 @@ I enjoy building and solving problems that I encounter or I envision someone to 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
 | [**CDP RAG Assistant**](https://github.com/arkanild/cdp-rag-assistant) | `FastAPI`, `Qdrant`, `LangGraph`, `RAGAS` | Production-grade customer data platform assistant using agentic workflows, hybrid search (BM25 + Dense), and dynamic evals. |
-| [**Agentic GraphRAG System**]([./projects/02-graph-rag](https://github.com/arkanild/Agentic-GraphRAG-System) | `OpenSearch`, `HyDE`, `RRF`, `NetworkX` | Hybrid Local & Global query router combining knowledge graphs with reciprocal rank fusion retrieval. |
+| [**Agentic GraphRAG System**](https://github.com/arkanild/Agentic-GraphRAG-System) | `OpenSearch`, `HyDE`, `RRF`, `NetworkX` | Hybrid Local & Global query router combining knowledge graphs with reciprocal rank fusion retrieval. |
 | [**Spatial AI Prototype**](./projects/03-spatial-ai) | `Python`, `PostGIS`, `PyTorch` | Field research & bioacoustic analysis tools for environmental conservation data processing. |
 | [**Smart Resume Builder**](https://github.com/arkanild/smart_resume_builder) |` Python`, `HuggingFace` , `PyTorch` | Smart resume builder to save time and effort modifying resumes for individual roles.
 
