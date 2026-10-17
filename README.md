@@ -31,12 +31,12 @@ I enjoy building and solving problems that I encounter or I envision someone to 
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Arkanil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arkanild&show_icons=true&theme=tokyonight" alt="Arkanil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=arkanild&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/arkanildutta)
+- 💼 **LinkedIn:** (www.linkedin.com/in/arkanildutta)
 - 🌐 **Location:** Madrid, Spain / Open to Remote HQP Opportunities
