@@ -38,5 +38,5 @@ I enjoy building and solving problems that I encounter or I envision someone to 
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** (www.linkedin.com/in/arkanildutta)
+- 💼 **LinkedIn:** [www.linkedin.com/in/arkanildutta]
 - 🌐 **Location:** Madrid, Spain / Open to Remote HQP Opportunities
