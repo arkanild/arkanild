@@ -1,7 +1,7 @@
 # Hi there, I'm Arkanil 👋 
 
 ### 🚀 Senior AI Product Engineer | Backend & Spatial AI enthusiast
-I enjoy building and solving problems that I encounter or I envision someone to encounter. I have about 10 years of experience helping organisations build scalable future ready systems. 
+A lifelong student, curious human being. I enjoy building and solving problems that I encounter or I envision someone to encounter. I have about 10 years of experience helping organisations build scalable future ready systems. 
 
 ---
 
