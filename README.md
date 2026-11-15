@@ -28,6 +28,39 @@ A lifelong student, curious human being. I enjoy building and solving problems t
 
 ---
 
+### 🌱 Active Open Source Contributions
+
+#### [climatechange-ai-tutorials/bioacoustic-monitoring — PR #5](https://github.com/climatechange-ai-tutorials/bioacoustic-monitoring/pull/5) · *Open*
+**Batch inference pipeline, multi-source ingestion and a Streamlit review dashboard for the Climate Change AI "Agile Modeling for Bioacoustic Monitoring" tutorial.**
+
+**The problem:** the tutorial teaches researchers to train a bird-species classifier in a Colab notebook, but there was no way to apply that classifier to new field recordings at scale, or to feed expert corrections back for retraining, without writing code.
+
+**What the PR adds:**
+- 📥 **Multi-source ingestion**: recursively reads `.wav`/`.flac` from local folders, S3/GCS buckets and public Google Drive folders
+- 🧠 **Batch inference CLI**: runs the tutorial's own Perch v8 embedding model and saved linear classifier over every recording, writing a predictions manifest CSV
+- 🎯 **Active-learning queue**: low-confidence clips (configurable threshold) are routed to a review queue; corrupted audio is logged and skipped without stopping the batch
+- 🖥️ **Streamlit dashboard**: run the whole workflow from a browser, see summary metrics, listen to uncertain clips, correct labels, and export them back into the notebook's database for retraining
+- ✅ **Verified end to end**: all 28 notebook cells run, pipeline scores match the notebook's classifier exactly, and 13 unit tests run in seconds without a GPU
+
+**Tech stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Perch](https://img.shields.io/badge/Perch_v8_(perch--hoplite)-4285F4?style=flat-square&logo=google&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![fsspec](https://img.shields.io/badge/fsspec_(S3%2FGCS)-232F3E?style=flat-square&logo=amazons3&logoColor=white)
+![Google Drive](https://img.shields.io/badge/gdown_(Google_Drive)-4285F4?style=flat-square&logo=googledrive&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+<p align="left">
+  <img src="./assets/bioacoustic-dashboard-summary.png" alt="Batch summary tab: files processed, high-confidence detections by species, mean confidence" width="49%" />
+  <img src="./assets/bioacoustic-dashboard-review.png" alt="Human review queue: low-confidence clips with audio player and label correction" width="49%" />
+</p>
+<sub><i>Left: batch summary. Right: human review queue with audio playback and label correction. Results from real Powdermill soundscape recordings.</i></sub>
+
+---
+
 ### 📊 GitHub Activity & Stats
 
 <p align="left">
