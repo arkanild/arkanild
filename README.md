@@ -18,7 +18,7 @@ I'm a **Lead Data & Software Engineer** with about 10 years of shipping systems 
 What I'm good at, in plain terms:
 
 - **Data engineering at scale.** Spark, Kafka, BigQuery, lakehouse tables (Iceberg/BigLake). Ingest messy data, model it properly and make it cheap to query.
-- **AI engineering that's measured.** RAG and agent systems with hybrid retrieval, re-ranking, caching, tracing and **evals**. I don't trust an LLM feature I can't score.
+- **AI engineering that's measured.** RAG and agent systems with hybrid retrieval, re-ranking, caching, multi agent orchestration, harness engineering, context engineering, tracing and **evals**. I don't trust an LLM feature I can't score.
 - **Product-minded backend.** FastAPI services, Postgres, Docker, CI, and tests. I care about what the user actually gets, not just the architecture diagram.
 - **Leading.** <!-- TODO: replace with your real numbers, e.g. "Led a team of 6 engineers; owned the data platform for 40M customer profiles" --> Setting technical direction, reviewing designs and mentoring engineers.
 
