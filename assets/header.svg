@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Arkanil Dutta, Lead Data and AI Engineer, Madrid">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V170C1050 215 900 140 750 165C600 190 450 225 300 190C180 162 90 175 0 195Z" fill="url(#bg)"/>
+  <path d="M0 195C90 175 180 162 300 190C450 225 600 190 750 165C900 140 1050 215 1200 170V185C1050 228 900 158 750 182C600 205 450 238 300 205C180 178 90 190 0 210Z" fill="#2563eb" opacity="0.35"/>
+  <text x="600" y="92" text-anchor="middle" fill="#ffffff" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="700">Arkanil Dutta</text>
+  <text x="600" y="135" text-anchor="middle" fill="#cbd5e1" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" letter-spacing="1">Lead Data &amp; AI Engineer · Madrid, Spain</text>
+</svg>

@@ -1,5 +1,4 @@
-<!-- Header banner (free, no signup): https://github.com/kyechan99/capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Arkanil%20Dutta&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Lead%20Data%20%26%20AI%20Engineer%20%C2%B7%20Madrid&descAlignY=58&descSize=18" width="100%" alt="Arkanil Dutta, Lead Data & AI Engineer, Madrid" />
+<img src="./assets/header.svg" width="100%" alt="Arkanil Dutta, Lead Data & AI Engineer, Madrid" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arkanildutta"><img src="https://img.shields.io/badge/LinkedIn-arkanildutta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -127,4 +126,4 @@ I'm happy to talk about data platforms, RAG that has to work in production, or a
 <!-- - ✉️ **Email:** you@example.com  (uncomment and add your address if you want recruiters to email you directly) -->
 - 📍 **Madrid, Spain** · CET · English <!-- TODO: add your Spanish level, e.g. "· Spanish (B1)" -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
