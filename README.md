@@ -13,7 +13,7 @@
 
 ## Hi, I'm Arkanil 👋
 
-I'm a **Lead Data & Software Engineer** with about 10 years of shipping systems that real teams depend on: batch and streaming data pipelines, the platforms underneath them, and lately the AI products built on top.
+I'm a **Lead Data & AI Engineer** with about 10 years of shipping systems that real teams depend on: batch and streaming data pipelines, the platforms underneath them, and lately the AI products built on top.
 
 What I'm good at, in plain terms:
 
