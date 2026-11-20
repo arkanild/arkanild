@@ -22,7 +22,7 @@ What I'm good at, in plain terms:
 - **Product-minded backend.** FastAPI services, Postgres, Docker, CI, and tests. I care about what the user actually gets, not just the architecture diagram.
 - **Leading.** <!-- TODO: replace with your real numbers, e.g. "Led a team of 6 engineers; owned the data platform for 40M customer profiles" --> Setting technical direction, reviewing designs and mentoring engineers.
 
-> 🇪🇸 **Looking for my next role in Spain** (Madrid on-site/hybrid, or remote within Spain). I'm eligible for Spain's **Highly Qualified Professional (HQP) / EU Blue Card** permit, a fast-track process that a sponsoring employer can complete in weeks. Happy to explain how it works.
+> 🇪🇸 **Looking for my next role in Spain** (Madrid on-site/hybrid). I'm eligible for Spain's **Highly Qualified Professional (HQP) / EU Blue Card** permit, a fast-track process that a sponsoring employer can complete in weeks. Happy to explain how it works.
 
 ---
 
