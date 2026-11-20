@@ -120,7 +120,7 @@ Small, tested building blocks I reach for at work: SFTP ingestion, BigQuery read
 
 ## 📫 Let's talk
 
-I'm happy to talk about data platforms, RAG that has to work in production, or a role in Spain.
+I'm happy to talk about data platforms, AI products, RAG that has to work in production, or a role in Spain.
 
 - 💼 **LinkedIn:** [linkedin.com/in/arkanildutta](https://www.linkedin.com/in/arkanildutta), the fastest way to reach me
 <!-- - ✉️ **Email:** you@example.com  (uncomment and add your address if you want recruiters to email you directly) -->
